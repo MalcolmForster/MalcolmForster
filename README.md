@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @MalcolmForster
-- 👀 I’m interested in software and web development in the .NET environment. Also I am a fan of making life easier by using python to simplify boring and repetitive tasks.
-- :fishing_pole_and_fish: I am aiming to get a better understanding of how software and hardware interact and have set myself the ambitious task of 'Fish Detector' using C++ and CUDA.
-- 🌱 I’m currently learning to apply C# in ASP.NET for webapplications and SQL database interaction.
-- 💞️ I’m looking to collaborate on projects using C# or C++ as the main language.
-- 📫 How to reach me ...
+- 👀 I’m interested in software and web development in the .NET environment. I also enjoy using python to simplify boring and repetitive tasks.
+- :construction_worker: Currently I am creating a software environment called Structcha, which aims to help manage the fast paced world of Structural and Civil engineering! This involves web, locally installed, and cloud integrated applications, and enabling them to communicate efficiently and securily. See malcolmforster.github.io for further explanation of Structcha and other projects!
+- 💞️ I’m looking to collaborate on projects using C# or C++, with projects falling into the cloud software or engineering analysis sectors.
+- 📫 If you would like to contact me or request a demo of one of my projects, please don't hesitate to do so!
 
 <!---
 MalcolmForster/MalcolmForster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
